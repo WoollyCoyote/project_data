@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "40d8ad53-30b8-48c0-ac84-15b2f655929e",
+      "text": "300",
+      "newMilage": "189000",
+      "currentMilage": "190000",
+      "changeOilNow": "193000",
+      "oilLifePercentage": 25
+    },
+    {
+      "id": "6c23c037-79f0-4cea-9f72-b3f96052691f",
+      "text": "xr650l",
+      "newMilage": "4600",
+      "currentMilage": "5300",
+      "changeOilNow": "8000",
+      "oilLifePercentage": 20.588235294117645
+    },
+    {
+      "id": "92e26079-dbd6-4ea0-922f-034e96370fe9",
+      "text": "ford",
+      "newMilage": "118000",
+      "currentMilage": "120000",
+      "changeOilNow": "122000",
+      "oilLifePercentage": 50,
+      "verified": true
+    }
+  ]
+}
