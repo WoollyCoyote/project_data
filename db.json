@@ -30,5 +30,10 @@
     }
   ],
   "blogs":[
+  ],
+  "products":[
+    "id":"1",
+"title":"potato chips",
+   "dis": "yummy salty treat"
   ]
 }
