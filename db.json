@@ -36,6 +36,11 @@
     "id":"1",
 "title":"potato chips",
    "dis": "yummy salty treat"
+    },
+     {
+    "id":"2",
+"title":"candy",
+   "dis": "yummy sweet treat"
     }
   ]
 }
